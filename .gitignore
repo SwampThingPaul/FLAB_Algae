@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+Data/
+GIS/*.lpkx
+
+Plots/RS_animation/
